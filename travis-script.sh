@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo env
+env
 
 exit 0
